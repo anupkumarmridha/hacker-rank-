@@ -1,5 +1,9 @@
 #!/bin/python3
 
+"""git remote add origin https://github.com/anupkumarmridha/hacker-rank-.git
+git branch -M main
+git push -u origin main"""
+
 import math
 import os
 import random
