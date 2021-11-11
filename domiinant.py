@@ -1,8 +1,10 @@
 #!/bin/python3
 
-"""git remote add origin https://github.com/anupkumarmridha/hacker-rank-.git
-git branch -M main
-git push -u origin main"""
+"""There is a given list of lists of integers that represent a 2- dimensional grid 
+with n rows and m columns. A cell is called a dominant cell if it has a strictly greater 
+value than all of its neighbors. Two cells are neighbors when they share a common side or 
+a common corner, so a cell can have up to 8 neighbors. 
+Find the number of dominant cells in the grid."""
 
 import math
 import os
